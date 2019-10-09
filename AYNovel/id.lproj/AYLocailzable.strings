@@ -1,0 +1,302 @@
+/* 
+  AYLocailzable.strings
+  AYNovel
+
+  Created by liuyunpeng on 2018/10/31.
+  Copyright © 2018年 liuyunpeng. All rights reserved.
+*/
+"书架" = "Pustaka";
+"漫画" = "Komik";
+"小说" = "Novel";
+"我的" = "Profil Saya";
+"编辑" = "Edit";
+"删除" = "Menghapus";
+"取消" = "Batalkan";
+"看广告取消" = "Batalkan";
+"确定" = "Setuju";
+"Give" = "Berikan";
+"越南小说" = "Hi-Read";
+"跳过" = "Lewati";
+"复制" = "Salin";
+"打赏成功" = "Berhasil Memberi Hadiah";
+"复制成功" = "Berhasil Disalin";
+"充值成功" = "Berhasil Isi Saldo";
+"确认" = "Konfirmasikan";
+"邀请码" = "Kode Undangan";
+
+
+"签到成功" = "Berhasil Check-in";
+"已连续签到%d天，明日签到可领取%d" = "Sudah check-in berturut-turut selama %d hari, besok check-in dapat %d";
+//"连续签到七天，额外赠送%d金币" = "Check-in berturut-turut selama 7 hari, dapat %d koin tambahan";
+"连续签到七天奖励翻倍" = "Check-in berturut-turut selama 7 hari, bonusnya dua kali lipat";
+
+"天" = "Hari";
+"签到" = "Check\nin";
+"充值" = "Isi Saldo";
+"登录" = "Login";
+"点击登录" = "Klik untuk Login";
+"请输入好友ID" = "Silakan masukkan ID teman";
+
+"加入书架" = "Tambahkan";
+"阅读" = "Membaca";
+"返回" = "Kembali";
+"分享" = "Bagikan";
+"退出" = "Keluar";
+"人" = "Orang";
+"章" = "Bab";
+"提交" = "Kirim";
+"发现新版本，是否更新？" = "Temukan versi baru, apakah mau memperbarui?";
+"更新" = "Memperbarui";
+
+//刷新和加载更多
+"正在加载" = "Sedang Dimuat";
+"已加载完" = "Sudah Dimuat";
+"上拉加载更多" = "Menarik ke atas untuk Dimuat Lebih Banyak";
+"松开手指加载更多" = "Lepaskan Jari untuk Dimuat Lebih Banyak";
+"下拉刷新" = "Menarik ke bawah untuk Refresh";
+"松开手指刷新" = "Lepaskan Jari untuk Refresh";
+"已加载完" = "Sudah Dimuat";
+"分钟前" = "Menit yang Lalu";
+"小时前" = "Jam yang Lalu";
+"天前" = "Hari yang Lalu";
+"秒前" = "Detik yang Lalu";
+"刚刚" = "Barusan";
+//网络
+"网络出现问题" = "Ada Masalah Dengan Jaringan";
+"未知错误" = "Error yang tidak Diterdeteksi";
+
+//个人中心
+"个人中心" = "Profil Saya";
+"评论" = "Komentar";
+"邀请" = "Undang";
+"隐私策略" = "Kebijakan Privasi";
+"金币明细" = "Rincian Transaksi Koin";
+"FB在线客服" = "Layanan Pelanggan Facebook";
+"常见问题" = "FAQ";
+"作者投稿" = "Menjadi Penulis";
+"版权声明" = "Pernyataan Kepemilikan Hak Cipta";
+"剩余金币" = "Saldo Koin";
+
+"版本" = "Versi";
+"关于" = "Tentang Kami";
+"联系FB" = "Kontak Kami lewat Facebook";
+"点击这里教你买金币" = "Klik untuk Melihat Cara Isi Saldo";
+"意见反馈" = "Umpan Balik";
+"设置" = "Pengaturan";
+"请输入您宝贵的意见和建议！" = "Silakan berikan pendapat dan saran Anda!";
+"自动解锁" = "Buka Kunci Otomatis";
+"已自动解锁" = "Sudah Buka Kunci Otomatis";
+"清理缓存" = "Bersihkan Cache";
+"充值记录" = "Riwayat Isi Saldo";
+"消费记录" = "Riwayat Saldo yang Digunakan";
+"Sign in with" = "Login Dengan";
+"我的好友" = "Teman Saya";
+"邀请好友" = "Undang Teman";
+"通过以下方式分享" = "Bagikan Lewat";
+"邀请好友让您拿更多金币" = "Undang teman untuk dapat lebih banyak koin";
+"邀请规则" = "Aturan Undang Teman";
+"已清除缓存" = "Sudah Membersihkan Cache";
+"请留下邮箱" = "Silahkan Tinggalkan E-mail Anda";
+
+"意见不能为空" = "Komentar tidak boleh kosong";
+"请输入正确的邮箱" = "Silahkan isi E-mail yang tepat";
+"奖励规则" = "Aturan Pemberian Hadiah";
+"1. 每邀请一个好友奖励%@" = "1. Mengundang 1 teman mendapat %@";
+"每邀请一个好友奖励%@" = "Mengundang 1 teman mendapat %@";
+
+"2. 好友每次充值，奖励充值金币的%@" = "2. Setiap kali teman Anda isi saldo, Anda akan mendapat %@ dari jumlah koin yang diisi";
+"1. 一个手机用户只能被邀请一次" = "1. Satu nomor ponsel hanya dapat diundang sekali";
+"2. 被邀请的人安装后输入邀请码再登陆才算邀请成功" = "2. Orang yang diundang setelah menginstal aplikasi ini, harus mengisi kode undangan lalu daftar, baru dihitung berhasil diundang";
+"总收入:"="Jumlah Total Koin yang Dikumpulkan:";
+"总消耗:"="Jumlah Total Koin yang Digunakan:";
+//书架
+"登录可查看书架中的作品哦~" = "Login untuk melihat buku-buku di Pustaka~";
+"点击领取奖励" = "Klik untuk Mengambil Hadiah";
+"未读" = "Belum Baca";
+"已阅读%d" = "Sudah Baca %d";
+"确认删除所选中的一本作品，删除后不能恢复" = "Konfirmasi untuk menghapus bacaan, setelah dihapus tidak dapat dikembalikan";
+"喜欢这本书就加入书架吧" = "Tambahkan ke Pustaka jika suka dengan buku ini";
+"加入书架成功" = "Berhasil tambahkan ke Pustaka";
+"已在书架" = "Sudah Ada di Pustaka";
+"已领取%d" = "Sudah Mengambil %d";
+"消耗" = "Penggunaan";
+"充值" = "Isi Saldo";
+"任务(小写)" = "tugas";
+
+//小说
+"打赏" = "Beri Hadiah";
+"简介" = "Pendahuluan";
+"目录" = "Katalog";
+"邀请好友送金币" = "Undang Teman Dapat Koin";
+"评论(%@)" = "Komentar(%@)";
+"查看更多的评论" = "Lihat Lebih Banyak Komentar";
+"热门推荐" = "Trending";
+"共%d章" = "Total %d Bab";
+"推荐" = "Hot";
+"暂无数据，点击重试" = "Belum Ada Data, Klik untuk Coba Lagi";
+"已是最后一章了" = "Sudah Sampai Bab Terakhir";
+"仿真" = "Realistis";
+"平移" = "Translasi";
+"上下" = "Bergulir";
+
+"连载中" = "Belum Tamat";
+"已完结" = "Sudah Tamat";
+"(更新%d章节)" = "(Sudah Diperbarui Sampai Bab %d)";
+"更新%d章节" = "Sudah Diperbarui Sampai Bab %d";
+
+"最新：已更新%d章节" = "Sudah Diperbarui Sampai Bab %d";
+
+"免费专区" ="Gratis";
+"主编力荐"= "Direkomendasikan oleh Editor";
+
+"免费" ="Gratis";
+"免费阅读" ="Baca Gratis";
+
+"限时免费" ="Gratis untuk Waktu Terbatas";
+"更多" ="More";
+"天"= "Hari";
+
+"用户最爱" ="Paling Disukai Pengguna";
+"热门畅销"= "Trending";
+"猜你喜欢" ="Mungkin akan Disukai Anda";
+"换一换"= "Ganti yang Lain";
+"最新推荐"= "Rekomendasi Terbaru";
+"精品漫画"= "Komik Menarik";
+"免费专区"= "Gratis";
+"看广告免费阅读"= "Menonton iklan untuk membaca secara gratis";
+"不想看广告"= "Tidak mau menonton iklan";
+"每天可免费阅读%d个章节 继续阅读需要解锁"= "Tiap hari bisa membaca %d bab secara gratis Kalau ingin melanjutkan membaca, perlu membuka kunci";
+"我不会充值怎么办？" ="Bagaimana caranya isi saldo?";
+"热门搜索"="Paling Sering Dicari";
+"人气热书"="Buku Populer";
+//写评论
+"必填" = "Harus Diisi";
+"请打分并说明您的看法...（1000字以内）" = "Silahkan berikan rating dan ulasan... (dalam 1.000 kata)";
+"发表" = "Kirim";
+"写评论" = "Tulis Komentar";
+"评论内容不能为空" = "Konten komentar tidak boleh kosong";
+"操作太频繁" = "Klik Terlalu Banyak";
+
+//分享
+"Copy Link" = "Salin Link";
+//阅读
+"本章解锁：" = "Buka Bab Ini:";
+"账号余额：" = "Saldo Akun:";
+"立即解锁" = "Segera Buka Kunci";
+"自动解锁下一章" = "Otomatis Buka Bab Selanjutnya";
+"金币不足，需要充值" = "Koin tidak cukup, perlu isi saldo";
+"立即充值" = "Segera Isi Saldo";
+//漫画
+"作者" = "Penulis";
+"更新时间" = "Waktu Update";
+"人气值" = "Popularitas";
+"点赞人数" = "Jumlah yang Suka";
+"已收藏" = "Favorit";
+"第%d话" = "Bab Ke-%d";
+"  全部章节(%d)   %@更新" = " Total Bab(%d)  %@ Diperbarui";
+"详情" = "Detail";
+"选集" = "Pilih Bab";
+"赞" = "Suka";
+"关注" = "Ikuti";
+"上一篇" = "Bab Sebelumnya";
+"下一篇" = "Bab Selanjutnya";
+"当前话" = "Bab Saat Ini";
+"努力加载中" = "Sedang Dimuat";
+"状态" = "Status";
+
+//任务
+"任务" = "Tugas";
+"点我签到"  =  "Klik untuk Check-in";
+"连续签到赢金币，连续签到一周奖励翻倍"  =  "Check-in berturut-turut mendapat koin, check-in berturut-turut selama 7 hari, bonusnya dua kali lipat";
+"新手任务" =   "Tugas untuk Pengguna Baru";
+"问卷答题"  =  "Kuisioner";
+"奖励50金币" =  "Mendapat 50";
+"奖励20金币" =  "Mendapat 20";
+"日常任务"  =  "Tugas Harian";
+"邀请好友"  =  "Mengundang Teman";
+"替好友充值" =   "Membantu Teman Isi Saldo";
+"返20%金币"  =  "Kembali 20%";
+"看广告领金币"  =  "Menonton iklan untuk mendapat koin";
+"每看一次奖励10"  =  "Tiap kali menonton iklan, mendapat 10";
+"每日分享"  =  "Tiap Hari Berbagi";
+"每日首次分享奖励20" =  "Tiap hari pertama kali berbagi akan mendapat 20";
+"首次分享奖励20" =  "Pertama kali berbagi akan mendapat 20";
+
+"完成阅读"  =  "Selesai Membaca";
+"每日阅读"  =  "Tiap Hari Membaca";
+"最近阅读"  =  "Riwayat Membaca";
+"奖励充值金币的20%"  =  "Mendapat koin bonus sebesar 20% dari jumlah koin yang diisi";
+"阅读20分钟奖励20"  =  "Membaca hingga 20 menit, mendapat 20";
+"答题"  =  "Menjawab";
+"邀请"  =  "Mengundang";
+"去充值"  =  "Isi Saldo";
+"观看" =   "Menonton";
+"观看完成" =  "Sudah Selesai Menonton";
+"今日广告剩余次数：%d" = "Jumlah kali yang tersisa untuk menonton iklan untuk hari ini: %d kali";
+"今日剩余：%d" = "Jumlah kali yang tersisa untuk hari ini: %d";
+"今日剩余" = "Jumlah kali yang tersisa untuk hari ini";
+
+"继续观看" =  "Nonton Lagi";
+"明日再来"  =  "Besok Lagi";
+"去分享"   = "Bagikan";
+"去阅读"  =  "Baca Sekarang";
+"书城"  =  "Buku";
+"下次再来"  =  "Lain Kali";
+"明日还可领取"  =  "Besok juga bisa mengambil";
+
+//内购
+"用户禁止应用内付费购买" = "Pengguna dilarang membeli dalam Aplikasi";
+"商品为空" = "Produk Kosong";
+"无法获取产品信息，请重试" = "Tidak dapat memperoleh informasi produk, Silakan coba lagi";
+"购买失败，请重试" = "Pembelian gagal, Silakan coba lagi";
+"支付错误" = "Ada masalah dengan Pembayaran";
+"超级实惠" = "Sangat Terjangkau";
+"凭证验证失败" = "Verifikasi Sertifikat Gagal";
+"订单号生成失败" = "Gagal Menghasilkan Nomor Pesanan";
+
+//分享
+"分享成功" = "Berhasil Berbagi";
+"分享成功,当日首次分享赠送20金币" = "Berhasil berbagi, tiap hari pertama kali berbagi akan mendapat 20";
+"未安装Gmail" = "Belum Instal Gmail";
+"最火APP， 海量小说、爆款漫画，随心畅读，给你带来醉爱的阅读体验！" = "APP paling HOT, novel yang banyak, komik yang menarik, kapan pun dan dimana pun Anda bebas untuk membaca, memberi Anda pengalaman membaca yang nyaman!";
+//app store 评论
+"喜欢อ่านเลย么? 给个五星好评吧!" = "Suka อ่านเลย? Beri kami rating bintang 5 yuk!";
+"喜欢，我要评论" = "Suka, Mau Berkomentar";
+"用用再说" = "Nanti Saja";
+"喜欢，五星好评" = "Suka, Beri Rating Bintang 5";
+"不喜欢，我要反馈" = "Tidak Suka, Mau Memberikan Umpan Balik";
+
+//搜索
+"搜索书名，作者" = "Mencari dengan judul buku atau nama penulis";
+
+//广告
+"不想看广告，你可以从下一章开始付费阅读！" = "Kalau tidak mau menonton iklan, Anda bisa membayar untuk membaca mulai dari bab berikutnya!";
+"不想看广告，您可以" = "Kalau tidak mau menonton iklan, Anda bisa";
+"不想付费购买，您可以" = "Kalau tidak mau membayar, Anda bisa";
+
+"从下一章开始付费阅读" = "Membayar untuk membaca mulai dari bab berikutnya";
+"从下一章开始看广告阅读" = "Menonton iklan untuk membaca mulai dari bab berikutnya";
+
+"付费阅读" = "Membayar untuk membaca";
+"仍看广告" = "Tetap menonton iklan";
+"不想看广告" = "Tidak mau menonton iklan";
+"您也可以明天再来免费看哦！" = "Anda juga bisa membaca secara gratis lagi pada besok!";
+"看视频解锁该章节"="Menonton video untuk membuka kunci bab ini";
+
+//好友充值
+"好友ID号" = "ID Teman";
+"金币数" = "Jumlah Koin";
+"奖励：每次替好友充值成功，奖励金币的20%" = "Bonus: Tiap kali berhasil membantu teman isi saldo, Anda bisa mendapat koin bonus sebesar 20% dari jumlah koin yang diisi";
+"充值步骤：\n步骤一：输入好友的id \n步骤二： 确认好友id和名字 \n步骤三：点击去充值，帮助你的好友完成充值" = "Langkah-langkah membantu teman isi saldo : \n \n 1. Masukkan ID teman Anda \n 2. Konfirmasikan ID dan nama teman Anda \n 3. Klik isi saldo, membantu teman Anda isi saldo";
+
+
+"广告正在加载中" = "Iklan sedang dimuat";
+"开始看广告阅读 " = "Mulai menonton iklan untuk membaca";
+
+//给好友充值
+"请输入正确的好友id" = "Silakan masukkan ID teman yang tepat";
+"帮好友充值成功" = "Berhasil membantu teman isi saldo";
+"不能给自己充值，请输入好友id" = "Tidak bisa membantu Anda sendiri isi saldo, silakan masukkan ID teman Anda";
+
+"禁止截屏\n您已触发app防御机制，请重启app才能继续使用" = "Dilarang mengambil screenshot \n Anda telah memicu sistem pertahanan aplikasi kami,harus buka ulang aplikasi, baru bisa terus menggunakannya!";
+"点我进入" = "Klik Sini untuk Melihat";

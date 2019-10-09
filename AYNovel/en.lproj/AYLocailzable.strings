@@ -1,0 +1,134 @@
+/* 
+  AYLocailzable.strings
+  AYNovel
+
+  Created by liuyunpeng on 2018/10/31.
+  Copyright © 2018年 liuyunpeng. All rights reserved.
+*/
+"书架" = "Bookrack";
+"漫画" = "Cartoon";
+"小说" = "Fiction";
+"我的" = "Mine";
+"编辑" = "Edit";
+"删除" = "Delete";
+"取消" = "Cancle";
+"确定" = "OK";
+
+"越南小说" = "Vietnam Novel";
+
+"打赏成功" = "Reward Success";
+"复制成功" = "Copy Success";
+"签到成功" = "Sign Success";
+"已连续签到%d天，明日签到可领取20" = "Has signed in for %d days,tomorrow Sign for 20";
+
+"连续签到七天，额外赠送%d金币" = "If you sign in for 7 consecutive days, you will be given an extra %d gold coin";
+
+"天" = "Day";
+"签到" = "Sign In";
+"充值" = "Charge";
+"登录" = "Login";
+"点击登录" = "Click Login";
+"加入书架" = "Add bookcase";
+"阅读" = "Read";
+"返回" = "Back";
+"分享" = "Share";
+"退出" = "Login out";
+"人" = "People";
+"章" = "Chapter";
+"提交" = "Comment";
+//刷新和加载更多
+"正在加载" = "Loading";
+"已加载完" = "Loaded";
+"上拉加载更多" = "Pull up loads more";
+"松开手指加载更多" = "Loosen fingers to load more";
+"下拉刷新" = "Drop-down refresh";
+"松开手指刷新" = "Let go and refresh";
+"已加载完" = "Load finished";
+
+"分钟前" = "Minutes ago";
+"小时前" = "Hour ago";
+"天前" = "Day ago";
+"秒前" = "Second ago";
+"刚刚" = "Right now";
+//个人中心
+"个人中心" = "Person center";
+"记录" = "Record";
+"评论" = "Comment";
+"邀请" = "Invitation";
+"意见反馈" = "Feedback";
+"设置" = "Set";
+"请输入您宝贵的意见和建议！" = "Please input your valuable comments and Suggestions！";
+"自动解锁" = "Automatic unlock";
+"已自动解锁" = "Automatic unlocked";
+"清理缓存" = "Clear cache";
+"充值记录" = "Charge record";
+"消费记录" = "Consume record";
+"我的好友" = "My friends";
+"邀请好友" = "Invite friends";
+"Give" = "Give";
+"Sign in with" = "Sign in with";
+"通过以下方式分享" = "Share in the following ways";
+"邀请好友让您拿更多爱心" = "Invite friends to give you more love";
+"奖励规则" = "Reward rules";
+"邀请规则" = "Invite rules";
+
+"1. 好友登录，奖励" = "1.Friend login, reward %@";
+"2. 好友每次充值，奖励" = "2.Bonus *%@% for each recharge";
+"1. 一个手机用户只能被邀请一次" = "1.A mobile user can only be invited once";
+"2. 被邀请的人安装后登陆才算邀请成功" = "2.The invited person installs it and then logs in";
+
+//书架
+"登录可查看书架中的作品哦~" = "Log in to view the works on the bookshelf~";
+"点击领取奖励" = "Click for reward";
+"未读" = "Unread";
+"阅读到第%d章" = "Read to %d chapter";
+"确认删除所选中的一本作品，删除后不能恢复" = "Make sure to delete the selected work, which cannot be recovered after deletion";
+"喜欢这本书就加入书架吧" = "Add the book to the shelf if you like it";
+"加入书架成功" = "Add to Bookrack success";
+
+//小说
+"打赏" = "Reward";
+"简介" = "Intro";
+"目录" = "Catalog";
+"邀请好友送金币" = "Invite friends to send gold coins";
+"评论(%d)" = "Comment(%d)";
+"查看更多的评论" = "See more reviews";
+"热门推荐" = "Hot recommended";
+"共%d章" = "Total of %d chapters";
+"推荐" = "Recommend";
+//写评论
+"必填" = "Mandatory";
+"请把你的评论写在这里。请尽可能详细地写下你的评论。你的评论对这个故事很重要" = "Please write your comments here. Please write your comments in as much detail as possible. Your comments are important to the story";
+"发表" = "Public";
+"写评论" = "Write Comment";
+//分享
+"Copy Link" = "Copy Link";
+//阅读
+"共%d章" = "total of %d chapter";
+"本章解锁：" = "unlock this chapter:";
+"账号余额：" = "Account balance:";
+"立即解锁" = "Immediately unlock";
+"自动解锁下一章" = "Automatic unlock next chapter";
+"金币不足，需要充值" = "There is not enough gold";
+"立即充值" = "Immediately recharge";
+//漫画
+"作者" = "Author";
+"更新时间" = "Update time";
+"人气值" = "Popular value";
+"点赞人数" = "Agree Number";
+"已收藏" = "Collected";
+"第%d话" = "The %d words";
+"  全部章节(%d)   %d天前更新" = "All chapters (%d) updated %d day ago";
+"详情" = "Detail";
+"选集" = "Selection";
+"赞" = "Praise";
+"关注" = "Attention";
+"上一篇" = "Previous chapter";
+"下一篇" = "Next chapter";
+"当前话" = "Current chapter";
+//内购
+"用户禁止应用内付费购买" = "Người dùng ứng dụng trả tiền mua trong vòng cấm";
+"商品为空" = "Hàng rỗng";
+"无法获取产品信息，请重试" = "Không thể lấy thông tin về sản phẩm, xin hãy thử lại lần nữa";
+"购买失败，请重试" = "Mua lại thất bại, xin hãy thử lại lần nữa";
+"支付错误" = "Trả tiền cho sai lầm";

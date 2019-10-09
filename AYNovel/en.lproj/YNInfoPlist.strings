@@ -1,0 +1,9 @@
+/* 
+  YNInfoPlist.strings
+  AYNovel
+
+  Created by liuyunpeng on 2019/2/13.
+  Copyright © 2019 liuyunpeng. All rights reserved.
+*/
+
+CFBundleDisplayName = "Hi-Read";

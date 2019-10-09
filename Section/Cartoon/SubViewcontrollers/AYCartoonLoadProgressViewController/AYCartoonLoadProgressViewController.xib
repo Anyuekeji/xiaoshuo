@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="AYCartoonLoadProgressViewController">
+            <connections>
+                <outlet property="cartoonImageVIew" destination="tKc-Pe-T8c" id="R7F-Ov-ucY"/>
+                <outlet property="imageTopContrains" destination="wT6-g0-LIg" id="SlS-KE-1U9"/>
+                <outlet property="loadingLable" destination="n6F-Fp-3o5" id="N3d-gS-GTk"/>
+                <outlet property="loadingProgressView" destination="2CS-jr-MfG" id="Zlg-wM-fO1"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <progressView opaque="NO" contentMode="scaleToFill" verticalHuggingPriority="750" progress="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="2CS-jr-MfG">
+                    <rect key="frame" x="41" y="562" width="294" height="2"/>
+                </progressView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="努力加载中...." textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="n6F-Fp-3o5">
+                    <rect key="frame" x="41" y="581" width="294" height="16"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="tKc-Pe-T8c">
+                    <rect key="frame" x="76" y="89" width="222" height="271"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="271" id="e86-Eb-yX9"/>
+                    </constraints>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="tKc-Pe-T8c" secondAttribute="trailing" constant="77" id="9e5-Lz-5Ds"/>
+                <constraint firstItem="2CS-jr-MfG" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="41" id="IQL-It-0s6"/>
+                <constraint firstItem="tKc-Pe-T8c" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="76" id="Ks0-IY-aW5"/>
+                <constraint firstItem="n6F-Fp-3o5" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="41" id="LtC-aK-l8v"/>
+                <constraint firstAttribute="trailing" secondItem="n6F-Fp-3o5" secondAttribute="trailing" constant="40" id="N93-Yb-tn7"/>
+                <constraint firstItem="n6F-Fp-3o5" firstAttribute="top" secondItem="2CS-jr-MfG" secondAttribute="bottom" constant="17" id="PnR-Fu-843"/>
+                <constraint firstAttribute="bottom" secondItem="n6F-Fp-3o5" secondAttribute="bottom" constant="70" id="ekf-L8-jfS"/>
+                <constraint firstAttribute="trailing" secondItem="2CS-jr-MfG" secondAttribute="trailing" constant="40" id="fEI-lK-4cg"/>
+                <constraint firstItem="tKc-Pe-T8c" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="89" id="wT6-g0-LIg"/>
+            </constraints>
+            <point key="canvasLocation" x="344.80000000000001" y="-164.16791604197903"/>
+        </view>
+    </objects>
+</document>

@@ -1,0 +1,303 @@
+/* 
+  AYLocailzable.strings
+  AYNo                                                                                                                                                                                            vel
+
+  Created by liuyunpeng on 2018/10/31.
+  Copyright © 2018年 liuyunpeng. All rights reserved.
+*/
+"书架" = "TỦ SÁCH";
+"漫画" = "TRUYỆN TRANH";
+"小说" = "TIỂU THUYẾT";
+"我的" = "CÁ NHÂN";
+"编辑" = "Quản Lý";
+"删除" = "Xóa";
+"取消" = "Không";
+"看广告取消" = "Hủy bỏ";
+"确定" = "Có";
+"Give" = "Biếu";
+"越南小说" = "Mê tình truyện";
+"跳过" = "Bỏ qua";
+"复制" = "Copy";
+"打赏成功" = "Thưởng thành công";
+"复制成功" = "Sao chép thành công";
+"充值成功" = "Sao chép thành công";
+"确认" = "Xác nhận";
+
+"签到成功" = "Điểm danh thành công";
+"已连续签到%d天，明日签到可领取%d" = "Bạn đã điểm danh liên tục %d ngày, ngày mai điểm danh liền sẽ được thưởng 20";
+//"连续签到七天，额外赠送%d金币" = "điểm danh tích lũy 7 ngày sẽ được tặng thêm xu %d";
+"连续签到七天奖励翻倍" = "Điểm danh liên tục 7 ngày được thưởng gấp đôi";
+
+"天" = "Ngày";
+"签到" = "Điểm\ndanh";
+"充值" = "Nạp Xu";
+"登录" = "Đăng nhập";
+"点击登录" = "Đăng Nhập";
+"请输入好友ID" = "Mời nhận vào ID của người mời";
+
+"加入书架" = "Theo Dõi";
+"阅读" = "Đọc Ngay";
+"返回" = "Trở về";
+"分享" = "Chia sẻ";
+"退出" = "Đăng Xuất";
+"人" = "Người";
+"章" = "Chapter";
+"提交" = "Gửi";
+"发现新版本，是否更新？" = "Tìm thấy một phiên bản mới";
+"更新" = "Cập nhật";
+
+//刷新和加载更多
+"正在加载" = "Đang tải";
+"已加载完" = "Đã tải xong";
+"上拉加载更多" = "Kéo lên tải nhiều hơn";
+"松开手指加载更多" = "Buông ra ngón tay để tải nhiều hơn";
+"下拉刷新" = "Kéo xuống cập nhật";
+"松开手指刷新" = "Buông ra ngón tay để cập nhật";
+"已加载完" = "Đã tải xong";
+"分钟前" = "phút trước";
+"小时前" = "giờ trước";
+"天前" = "ngày trước";
+"秒前" = "giây trước";
+"刚刚" = "Vừa mới";
+//网络
+"网络出现问题" = "Sự cố với mạng";
+"未知错误" = "Lỗi không xác định";
+
+//个人中心
+"个人中心" = "Cá Nhân";
+"评论" = "Bình luận";
+"邀请" = "Mời bạn bè";
+"隐私策略" = "Chính sách quyền riêng tư";
+"金币明细" = "Chi tiết giao dịch xu";
+"FB在线客服" = "FB Hỗ trợ Online";
+"常见问题" = "Câu hỏi thường gặp";
+"作者投稿" = "Trở thành tác giả";
+"版权声明" = "Quyền sở hữu";
+"剩余金币" = "Số dư xu";
+
+"版本" = "Phiên bản";
+"关于" = "Về chúng tôi";
+"联系FB" = "Liên hệ FB";
+"点击这里教你买金币" = " Bấm vào đây hướng dẫn nạp xu";
+"意见反馈" = "Ý kiến phản hồi";
+"设置" = "Cài đặt";
+"请输入您宝贵的意见和建议！" = "Vui lòng gửi ý kiến phản hồi cho chúng tôi ! Nếu có thể  xin liên hệ qua FB của fanpage <Mê tình truyện >, cảm ơn !";
+"自动解锁" = "Mở khóa tự động";
+"已自动解锁" = "Đã mở khóa tự động";
+"清理缓存" = "Xóa bộ nhớ";
+"充值记录" = "Lịch sử nạp xu";
+"消费记录" = "Lịch sử giao dịch";
+"Sign in with" = "Đăng nhâp bằng";
+"我的好友" = "Bạn Tôi ";
+"邀请好友" = "Mời bạn bè";
+"通过以下方式分享" = "Chia sẻ cho bạn bè ";
+"邀请好友让您拿更多金币" = "Mời bạn bè nhận xu thưởng";
+"邀请规则" = "Nhắc nhở";
+"已清除缓存" = "Đã xóa bộ nhớ tạm";
+"请留下邮箱" = "Xin hãy ở lại hộp thư";
+
+"意见不能为空" = "Ý kiến không rỗng!";
+"请输入正确的邮箱" = "Xin nhận email của bạn ( bắt buộc )!";
+"奖励规则" = "Quy tắc tặng quà";
+"1. 每邀请一个好友奖励" = "1、Mời 1 bạn thưởng %@";
+"每邀请一个好友奖励" = "Mời 1 bạn thưởng %@";
+
+"2. 好友每次充值，奖励充值金币的" = "2、Mỗi lần bạn của bạn nạp xu, bạn được trả lại %@";
+"1. 一个手机用户只能被邀请一次" = "1、Một số điện thoại chỉ có thể mời một lần";
+"2. 被邀请的人安装后输入邀请码再登陆才算邀请成功" = "2、Trước khi đăng nhập, bạn bè của bạn phải điền vào ID của người mời lại đăng nhập mới là mời thành công";
+"总收入:"="Tổng xu thu vào:";
+"总消耗:"="Tổng xu đã dùng:";
+//书架
+"登录可查看书架中的作品哦~" = "Đăng nhập để đọc tủ sách~";
+"点击领取奖励" = "Nhận Thưởng";
+"未读" = "Chưa đọc";
+"已阅读%d" = "Đọc đến %d";
+"确认删除所选中的一本作品，删除后不能恢复" = "Bạn có muốn xóa sách khỏi tủ sách không";
+"喜欢这本书就加入书架吧" = "Nếu bạn thích cuốn sách này thì thêm vào tủ sách ngay để lần sau đọc tiếp nhé";
+"加入书架成功" = "Theo Dõi thành công";
+"已在书架" = "Đã ở Tủ Sách";
+"已领取%d" = "Đã nhận %d";
+"消耗" = "Tiêu phí";
+"充值" = "Nạp xu";
+"任务(小写)" = "Nhiệm vụ ";
+
+//小说
+"打赏" = "Thưởng";
+"简介" = "Giới thiệu";
+"目录" = "Mục lục";
+"邀请好友送金币" = "Mời bạn bè sẽ được tặng xu";
+"评论(%@)" = "Bình luận(%@)";
+"查看更多的评论" = "Xem tất cả bình luận";
+"热门推荐" = "HOT NHẤT";
+"共%d章" = "Full %d Chương ";
+"推荐" = "Hot";
+"暂无数据，点击重试" = "Tạm thời không có dữ liệu, nhấn vào thử lại lần nữa";
+"已是最后一章了" = "Đây là chương cuối cùng";
+"仿真翻页" = "Mô Phỏng";
+"平移翻页" = "Kéo Ngang";
+"连载中" = "Đang cập nhật";
+"已完结" = "FULL";
+"(更新%d章节)" = "(Cập nhật đến chương %d)";
+"更新%d章节" = "Cập nhật đến chương %d";
+
+"最新：已更新%d章节" = "Cập nhật đến chương %d";
+
+"免费专区" ="Miễn phí hot";
+"主编力荐"= "Tác giả khuyên đọc";
+
+"免费" ="MIỄN PHÍ";
+"免费阅读" ="Đọc miễn phí";
+
+"限时免费" ="Miến phí hot";
+"更多" ="Xem tất cả";
+"天"= "Ngày";
+
+"用户最爱" ="Đọc NHiều nhất";
+"热门畅销"= "Sách hot bán chạy";
+"猜你喜欢" ="Có thể bạn sẽ thích";
+"换一换"= "Thay đổi";
+"最新推荐"= "Mới Nhất";
+"精品漫画"= "Truyện tranh hay nhất";
+"免费专区"= "Khu vực miễn phí";
+"看广告免费阅读"= "Xem quảng cáo đọc miễn phí";
+"不想看广告"= "Không muốn xem quảng cáo";
+"每天可免费阅读%d个章节 继续阅读需要解锁"= "Mỗi ngày có thể đọc %d chương miễn phí  Đọc tiếp cần xu mở khóa";
+"我不会充值怎么办？" ="Làm sao để nạp xu?";
+"热门搜索"="Tìm nhiều nhất";
+"人气热书"="Sách Hot";
+//写评论
+"必填" = "Đánh giá";
+"请打分并说明您的看法...（1000字以内）" = "chấm điểm và viết nhận xét của bạn (trong 1000 chữ )";
+"发表" = "Gửi";
+"写评论" = "Bình luận";
+"评论内容不能为空" = "Bình luận về nội dung không rỗng!";
+"操作太频繁" = "Hoạt động quá thường xuyên";
+
+//分享
+"Copy Link" = "Copy Link";
+//阅读
+"本章解锁：" = "Mở khóa chương này:";
+"账号余额：" = "Số dư tài khoản:";
+"立即解锁" = "Mở khóa ngay";
+"自动解锁下一章" = "Mở khóa tự động chương tiếp theo";
+"金币不足，需要充值" = "Xu của bạn không đủ cần phải nạp xu";
+"立即充值" = "Nạp xu ngay";
+//漫画
+"作者" = "Tác giả";
+"更新时间" = "Thời gian cập nhật";
+"人气值" = "Lượt đọc";
+"点赞人数" = "Thích";
+"已收藏" = "Theo dõi";
+"第%d话" = "Chương %d";
+"  全部章节(%d)   %@更新" = "Danh sách chap (%d) Cập nhật %@ trước";
+"详情" = "Chi tiết";
+"选集" = "Mục lục";
+"赞" = "Thích";
+"关注" = "Theo dõi";
+"上一篇" = "Chap trước";
+"下一篇" = "Chap tiếp theo";
+"当前话" = "Chap trước mặt";
+"努力加载中" = "Đang tải";
+"状态" = "Trạng thái";
+
+//任务
+"任务" = "NHIỆM VỤ";
+"点我签到"  =  "Bấm tôi điểm danh";
+"连续签到赢金币，连续签到一周奖励翻倍"  =  "điểm danh liên tục thưởng xu, điểm danh liên tục 1 tuần được thưởng gấp đôi";
+"新手任务" =   "NHIỆM VỤ NGƯỜI MỚI";
+"问卷答题"  =  "Câu hỏi khảo sát";
+"奖励50金币" =  "Thưởng 50";
+"奖励20金币" =  "Thưởng 20";
+"日常任务"  =  "NHIỆM VỤ HẰNG NGÀY";
+"邀请好友"  =  "Mời bạn bè";
+"替好友充值" =   "Thay Bạn bè nạp xu";
+"返20%金币"  =  "Trả lại 20%";
+"看广告领金币"  =  "Xem quảng cáo nhận xu";
+"每看一次奖励20"  =  "Xem 1 lần thưởng 20";
+"每日分享"  =  "Chia sẻ mỗi ngày";
+"每日首次分享奖励20" =  "Mỗi ngày chia sẻ lần đầu thưởng 20";
+"首次分享奖励20" =  "Lần đầu chia sẻ thưởng 20";
+
+"完成阅读"  =  "Đã đọc xong";
+"每日阅读"  =  "Đọc hằng ngày";
+"最近阅读"  =  "Lịch sử đọc";
+"奖励充值金币的20%"  =  "Thưởng 20% xu đã nạp";
+"阅读20分钟奖励50"  =  "Đọc 20 phút, thưởng 50";
+"答题"  =  "Trả lời";
+"邀请"  =  "Mời";
+"去充值"  =  "Nạp xu";
+"观看" =   "Xem";
+"观看完成" =  "Xem kết thúc";
+"今日广告剩余次数：%d" = "Số dư còn lại xem quảng cáo của hôm nay: %d lần";
+"今日剩余：%d" = "Hôm nay còn lại : %d lần";
+"今日剩余" = "Hôm nay còn lại";
+
+"继续观看" =  "Xem tiếp";
+"明日再来"  =  "Mai tiếp tục";
+"去分享"   = "Chia sẻ";
+"去阅读"  =  "Đọc ngay";
+"书城"  =  "KHO SÁCH";
+"下次再来"  =  "Lần sau gặp lại";
+"明日还可领取"  =  "Ngày mai còn có thể nhập thêm";
+
+//内购
+"用户禁止应用内付费购买" = "Người dùng ứng dụng trả tiền mua trong vòng cấm";
+"商品为空" = "Hàng rỗng";
+"无法获取产品信息，请重试" = "Không thể lấy thông tin về sản phẩm, xin hãy thử lại lần nữa";
+"购买失败，请重试" = "Mua lại thất bại, xin hãy thử lại lần nữa";
+"支付错误" = "Trả tiền cho sai lầm";
+"超级实惠" = "Khuyến mãi";
+"凭证验证失败" = "Bằng chứng xác nhận thất bại";
+"订单号生成失败" = "Tạo mã số thanh toán không thành công";
+
+//分享
+"分享成功" = "Chia sẻ thành công";
+"分享成功,当日首次分享赠送20金币" = "Chia sẻ thành công";
+"未安装Gmail" = "Chưa cài đặt Gmail";
+"最火APP， 海量小说、爆款漫画，随心畅读，给你带来醉爱的阅读体验！" = "APP Hot Nhất,Tiểu Thuyết Đồ Sộ,Truyện Tranh Hay Nhất,Đọc Truyện Tự Do,Mang Lại Cho Bạn Một Trải Nghiệm Đọc Say!";
+//app store 评论
+"喜欢Mê tình truyện么?给个五星好评吧!" = "Hi bạn, thích Mê tình truyện không? Cho mình 5 sao nhé ! Cảm ơn !";
+"喜欢，我要评论" = "thích, Tôi muốn bình luận";
+"用用再说" = "Trải Nghiệm xong lại nói";
+"喜欢，五星好评" = "thích, Bình chọn 5 sao";
+"不喜欢，我要反馈" = "Tôi không thích, tôi phải phản hồi";
+
+//搜索
+"搜索书名，作者" = "Tìm kiếm sách、tác giả";
+
+//广告
+"不想看广告，你可以从下一章开始付费阅读！" = "Không muốn xem quảng cáo, xin bạn bắt đầu trả phí từ chương tiếp theo!";
+"不想看广告，您可以" = "Không muốn xem quảng cáo, bạn có thể!";
+"不想付费购买，您可以" = "Không muốn trả phí, bạn có thể!";
+
+"从下一章开始付费阅读" = "Bắt đầu trả phí từ chương tiếp theo";
+"从下一章开始看广告阅读" = "Bắt đầu xem quảng cáo để đọc chương tiếp theo";
+"开始付费阅读" = "trả phí từ chương tiếp theo";
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/master
+"付费阅读" = "Đọc trả phí ";
+"仍看广告" = " Vẫn xem quảng cáo";
+"不想看广告" = "Không muốn xem quảng cáo";
+"您也可以明天再来免费看哦！" = "Bạn có thể đọc miễn phí vào ngày mai !";
+"看视频解锁该章节"="Xêm video mở khóa chương này";
+
+//好友充值
+"好友ID号" = "ID của bạn bè";
+"金币数" = "Số lượng xu";
+"立即赠送" = "Tặng ngay";
+"奖励：每次替好友充值成功，奖励金币的20%" = "Thưởng:Mỗi lần thay bạn bè nạp xu thành công, bạn được thưởng 20% số xu nạp";
+"充值步骤：\n步骤一：输入好友的id \n步骤二： 确认好友id和名字 \n步骤三：点击去充值，帮助你的好友完成充值" = "Hướng dẫn thay bạn nạp xu : \n 1、Xin bạn nhập vào ID của bạn bè \n 2、Xin bạn xác nhận ID và Tên của bạn bè \n 3、Xác nhận xong xin bạn bấm vào nạp xu giúp bạn bè hoàn thành nạp xu";
+
+
+"广告正在加载中" = "Đang tải quảng cáo";
+"开始看广告阅读 " = "Bắt đầu xem quảng cáo để đọc";
+
+//给好友充值
+"请输入正确的好友id" = "Xin nhập chính xác ID  của bạn bè";
+"帮好友充值成功" = "Thay bạn nạp xu thành công ";
+"不能给自己充值，请输入好友id" = "không thể nạp xu cho chính mình, mời nhập vào ID của bạn bè";
+
+"禁止截屏\n您已触发app防御机制，请重启app才能继续使用" = "Cấm chụp màn hình\n bạn đã kích khởi hệ thống phòng ngự của APP . Mời bạn mở lại app để sử dụng tiếp, cảm ơn! ";
+"点我进入" = "Bấm đây hướng dẫn nạp xu";
